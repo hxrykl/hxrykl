@@ -7,7 +7,7 @@
  深耕Vue，
 
 - 以后我会做：
-  了解Node、TypeScript、React
+  了解Node、Nuxt、TypeScript、React
 
 -  之前我已经做：熟悉Vue全家桶、JavaScript、CSS、HTML，了解Echarts,Linux
 - 我感兴趣的事：
